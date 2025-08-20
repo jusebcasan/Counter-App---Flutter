@@ -23,7 +23,7 @@ Es un proyecto de práctica para aprender la estructura básica de Flutter y el 
 *(Aquí puedes agregar imágenes de tu app)*  
 Ejemplo:  
 
-<img width="418" height="871" alt="FirstAppFlutter" src="https://github.com/user-attachments/assets/36fe1eb4-62af-4a4b-9dfc-3b5148f7c7dd" />
+<img width="1280" height="2856" alt="Screenshot_1755656104" src="https://github.com/user-attachments/assets/3a8cd9ed-876c-4f62-bb5c-39809aafcd89" />
 
 ---
 
