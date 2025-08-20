@@ -1,16 +1,33 @@
-# hello_world
+# 📱 Counter App - Flutter
 
-A new Flutter project.
+Una aplicación sencilla creada con **Flutter** que implementa un contador de clics.  
+Es un proyecto de práctica para aprender la estructura básica de Flutter y el manejo de estados.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Características
+- Contador que aumenta al presionar un botón.
+- Visualización del número de clics en pantalla.
+- Cambio dinámico entre **"click"** y **"clicks"** según el valor.
+- Código limpio y fácil de entender.
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🛠️ Tecnologías usadas
+- [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 📷 Capturas de pantalla
+*(Aquí puedes agregar imágenes de tu app)*  
+Ejemplo:  
+
+<img width="418" height="871" alt="FirstAppFlutter" src="https://github.com/user-attachments/assets/36fe1eb4-62af-4a4b-9dfc-3b5148f7c7dd" />
+
+---
+
+## ▶️ Cómo ejecutar el proyecto
+1. Clona este repositorio:
+   ```bash
+   git clone https://github.com/jusebcasan/Counter-App---Flutter.git
