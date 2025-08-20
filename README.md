@@ -19,9 +19,7 @@ Es un proyecto de práctica para aprender la estructura básica de Flutter y el 
 
 ---
 
-## 📷 Capturas de pantalla
-*(Aquí puedes agregar imágenes de tu app)*  
-Ejemplo:  
+## 📷 Capturas de pantalla 
 
 <img width="1280" height="2856" alt="Screenshot_1755656104" src="https://github.com/user-attachments/assets/3a8cd9ed-876c-4f62-bb5c-39809aafcd89" />
 
